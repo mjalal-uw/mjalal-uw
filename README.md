@@ -4,7 +4,18 @@ I'm an **Android Developer** specializing in creating intuitive and efficient mo
 
 ## 🚀 Projects
 Here are some of my notable projects:
-- **[Happy Birthday App](https://github.com/mjalal-uw/happy-birthday)**: A fun app that allows users to customize and send birthday greetings using Jetpack Compose.
+### [🧩 Unscramble](https://github.com/mjalal-uw/Unscramble)
+A complex word puzzle game designed with Jetpack Compose. This app focuses on interactive UI elements, state management, and a user-friendly experience. It demonstrates advanced concepts in data handling, animations, and real-time updates, showcasing my proficiency in Compose and modern Android architecture.
+
+### [🐶 Woof](https://github.com/mjalal-uw/compose-woof)
+An app showcasing Jetpack Compose layouts and navigation, designed for browsing and learning about different dog breeds. This project demonstrates efficient use of lazy lists, custom components, and modern Compose UI patterns.
+
+### [🦸 Superheroes](https://github.com/mjalal-uw/compose-superheros)
+A superhero browsing app created with Jetpack Compose, emphasizing list management, grid layouts, and interactive UI components. This app highlights my proficiency in dynamic UI updates and state management within Compose.
+
+### [📘 Course Tracker](https://github.com/mjalal-uw/compose-courses)
+A robust course management app that enables tracking and organization of educational content. Built with Jetpack Compose, it includes backend integration and user data management, making it a comprehensive tool for course tracking.
+
 
 ## 🛠️ Technical Skills
 - **Languages**: Kotlin, Java
